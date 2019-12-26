@@ -3,3 +3,4 @@
 输入：Kitti tracking 数据集以及车辆检测框<br>
 输出：车辆的三维空间坐标<br>
 核心思想：ground plane estimation and homography matrix<br>
+算法具体思路以及实现细节参考3D_percetion.pdf
